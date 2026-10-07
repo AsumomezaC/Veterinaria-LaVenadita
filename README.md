@@ -1,5 +1,7 @@
 # Farmacia La Venadita — Sitio web informativo
 
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Sitio web informativo para **Farmacia La Venadita**, una farmacia veterinaria real ubicada en Fresnillo, Zacatecas, especializada en animales de granja.
 
 🔗 **Sitio en vivo:** https://veterinaria-la-venadita.site.je/?i=1
@@ -104,5 +106,7 @@ Proyecto de aprendizaje y portafolio personal.
 ## 📄 Licencia
 
 © AsumomezaC, 2026. Todos los derechos reservados.
+
+El contenido de este repositorio (texto y capturas) está bajo licencia CC BY-NC 4.0, salvo el logo, imágenes y nombre de Farmacia La Venadita, que son propiedad del negocio y se incluyen únicamente con fines ilustrativos.
 
 Ver archivo [`LICENSE`](LICENSE) para más detalles.
